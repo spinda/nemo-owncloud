@@ -10,6 +10,11 @@ Requires
 and
 [`nemo-python`](https://www.archlinux.org/packages/community/x86_64/nemo-python/).
 
+## Arch Linux
+
+Available as a
+[package on the AUR](https://aur.archlinux.org/packages/nemo-owncloud-git/).
+
 ## Usage
 
 Install `usr/share/nemo-python/extensions/syncstate.py` to the corresponding
