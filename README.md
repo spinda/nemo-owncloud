@@ -23,5 +23,6 @@ to load.
 
 ## License
 
-GPLv2 or later
+GPLv2 or later (see
+[`syncstate.py`](usr/share/nemo-python/extensions/syncstate.py))
 
