@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# Nemo extension Copyright (C) by Klaas Freitag <freitag@owncloud.com>
+# Nautilus extension Copyright (C) by Klaas Freitag <freitag@owncloud.com>
 # Adapted for Nemo by Michael Smith <michael@diglumi.com>
 #
 # This program is free software; you can redistribute it and/or modify
